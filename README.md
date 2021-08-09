@@ -15,7 +15,6 @@ We'll aim to
 * use unit and integration tests that strive for clarity of purpose, forming living documentation and a safety net for regression rather than satisfying arbitrary code coverage.
 
 ## Living Documentation
-Our documentation lives with the code in this repository, and we use IPython notebooks that describe the application design, physics, references
-and runnable snippets that demonstrate concepts.
+Our documentation lives with the code in this repository, and we'll initially use Jupyter Notebooks that describe the application design, physics, references and runnable snippets that demonstrate concepts. Later we might consider Sphinx or similar.
 
 You can see the docs [here](docs/).
